@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6603" started-at="2020-04-07T12:33:42 IST" finished-at="2020-04-07T12:33:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6603" started-at="2020-04-07T12:33:42 IST" finished-at="2020-04-07T12:33:49 IST">
+      <class name="tests.APIRequestScript">
+        <test-method status="PASS" signature="getAllProducts()[pri:0, instance:tests.APIRequestScript@4f063c0a]" name="getAllProducts" duration-ms="6523" started-at="2020-04-07T12:33:42 IST" finished-at="2020-04-07T12:33:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProducts -->
+      </class> <!-- tests.APIRequestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
